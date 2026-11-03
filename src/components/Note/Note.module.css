@@ -1,0 +1,11 @@
+.noteItem {
+  cursor: pointer;
+  padding: 12px 10px;
+  font-size: 15px;
+  color: #fff;
+  border-bottom: 0.5px solid #fff;
+}
+
+.active {
+  background-color: #573d7d;
+}

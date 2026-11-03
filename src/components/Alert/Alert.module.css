@@ -1,0 +1,13 @@
+.alertContainer {
+  position: fixed;
+  left: 10px;
+  top: 10px;
+  background: #f43a4c;
+  min-width: 250px;
+  border-radius: 5px;
+}
+
+.alertContainer ul {
+  font-size: 14px;
+  color: #fff;
+}

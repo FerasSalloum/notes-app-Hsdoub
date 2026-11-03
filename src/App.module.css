@@ -1,0 +1,22 @@
+.app {
+  display: flex;
+}
+
+.noteOperations {
+  position: absolute;
+  left: 10%;
+  top: 6%;
+  display: flex;
+  justify-content: space-between;
+  width: 60px;
+  font-size: 20px;
+}
+
+.noteOperations button {
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+  color: #7b7777;
+  font-size: 20px;
+}

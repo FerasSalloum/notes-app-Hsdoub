@@ -1,0 +1,15 @@
+.previewSection {
+  position: relative;
+  width: 75%;
+  padding: 10px 75px;
+  height: 600px;
+  overflow: auto;
+  box-sizing: border-box;
+}
+
+@media (max-width: 600px) {
+  .previewSection {
+    width: 70%;
+    padding: 10px 30px;
+  }
+}

@@ -1,0 +1,30 @@
+.notesSection {
+  position: relative;
+  width: 25%;
+  background-color: #595f68;
+}
+
+.addBtn {
+  position: absolute;
+  left: -20px;
+  top: 50%;
+  width: 45px;
+  height: 45px;
+  line-height: 28px;
+  background-color: #c82333;
+  text-align: center;
+  border-radius: 50%;
+  font-size: 30px;
+  border: 0;
+  cursor: pointer;
+  color: #fff;
+  outline: 0;
+  z-index: 10;
+  transform: translateY(-50%);
+}
+
+@media (max-width: 600px) {
+  .notesSection {
+    width: 30%;
+  }
+}
