@@ -4,7 +4,7 @@ body {
   font-family: Cairo, sans-serif;
   direction: rtl;
   background-color: #573d7d;
-  background-image: url(/hsoub-logo.png);
+  /* background-image: url(/hsoub-logo.png); */
   background-position: 95% 17px;
   background-repeat: no-repeat;
   background-size: 125px 40px;
